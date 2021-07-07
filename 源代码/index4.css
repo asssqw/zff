@@ -1,0 +1,64 @@
+body{
+    background-color: burlywood;
+}
+#p1 .head1
+{
+    font-size: 2em;
+    padding-right: 20px;
+  float:right;
+  padding-bottom:5px ;
+}
+h1
+{
+color:black;
+text-align: center;
+}
+#big
+{
+border:1px solid black;
+width:1000px;
+margin-left: 200px;
+height:500px;
+background-image: url(picture/p1.jpg);
+background-repeat: no-repeat;
+}
+#big .l1
+{
+color:crimson;
+
+font-size: 1.5em;
+padding-top: 20px;
+padding-left: 100px;
+}
+#big .l2
+{color:darkviolet;
+    font-size: 1.5em;
+ 
+   padding-top: 20px;
+   padding-left: 100px;
+
+}
+#big .l3
+{color:darkgoldenrod;
+    
+    font-size: 1.5em;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+#big .l4
+{color:darkkhaki;
+    
+    font-size: 1.5em;
+    padding-top: 20px; 
+    padding-left: 100px;
+}
+#big .l5
+{color:darkslategrey;
+   
+    font-size: 1.5em;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+a:link{color:lightskyblue;}
+a:hover{color:red;}
+a{ text-decoration: none;}

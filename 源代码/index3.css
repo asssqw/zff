@@ -1,0 +1,52 @@
+body{
+    font-family: "SimSun";    
+}
+#head 
+{
+  
+    font-size: 2em;
+    padding-right: 20px;
+  height:100px;
+  width:1180px;
+  margin:auto;
+    background-color:mediumpurple;
+}
+#head .head1
+{
+  
+    font-size: 1em;
+    padding-right: 20px;
+  float:right;
+  padding-bottom:5px ;
+    
+}
+#head h1{text-align: center;}
+#mid 
+{
+    
+    font-size: 1em;
+  
+  height:1000px;
+  width:1200px;
+  margin:auto;
+    background-color:navajowhite;
+}
+#mid .mid1
+{
+    border:           thin solid #c9ba92;
+    caption-side:     bottom;
+    border-collapse:  collapse;
+   
+
+}
+
+td {
+    height:50px;
+    width:700px;
+    border:           thin dotted black;
+    padding:          5px;
+    background-color:mediumpurple   ;
+  }
+a:link{color:lightskyblue;}
+a:hover{color:red;}
+a{ text-decoration: none;}

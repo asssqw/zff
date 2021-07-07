@@ -1,0 +1,45 @@
+#head .head1
+{
+    font-size: 2em;
+    padding-right: 20px;
+  float:right;
+  padding-top: 10px;
+  
+}
+#head
+{
+    height: 110px;
+    background-color: plum;
+    padding-top: 20px;
+    margin-left: 100px;
+    margin-right: 90px;
+}
+#head h1{text-align: center;}
+#mid 
+{
+    
+    height:660px;
+    font-size: 0;
+    margin-left: 100px;
+    margin-right: 90px;
+    background-color:wheat;
+}
+#mid .m1
+{
+    float:right;
+    padding-right: 1px;
+}
+.m2
+{   margin-top: 0;
+    height:200px;
+    font-size: 1em;
+    margin-left: 100px;
+    margin-right: 90px;
+    background-color:wheat;
+    color:violet;
+    padding-top: 10px;
+}
+
+a:link{color:black;}
+a:hover{color:red;}
+a{ text-decoration: none;}
